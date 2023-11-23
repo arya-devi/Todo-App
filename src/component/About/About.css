@@ -1,0 +1,24 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    background-color:rgb(13, 61, 56);
+    box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.233);
+    color: gray;
+    width: 70rem; 
+    border-radius: 10px;
+}
+.paragraph1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 2rem;
+    letter-spacing: .1rem;
+}
+.paragraph2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 2rem;
+    letter-spacing: .1rem;
+}
